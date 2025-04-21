@@ -1,0 +1,2450 @@
+[
+  {
+    "Week": "Week1",
+    "Date": "9/5/2024",
+    "Visitor": "Baltimore Ravens",
+    "VisitorScore": 20,
+    "Home": "Kansas City Chiefs",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/6/2024",
+    "Visitor": "Green Bay Packers",
+    "VisitorScore": 29,
+    "Home": "Philadelphia Eagles",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "Minnesota Vikings",
+    "VisitorScore": 28,
+    "Home": "New York Giants",
+    "HomeScore": 6,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "Pittsburgh Steelers",
+    "VisitorScore": 18,
+    "Home": "Atlanta Falcons",
+    "HomeScore": 10,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "Carolina Panthers",
+    "VisitorScore": 10,
+    "Home": "New Orleans Saints",
+    "HomeScore": 47,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "Tennessee Titans",
+    "VisitorScore": 17,
+    "Home": "Chicago Bears",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "Arizona Cardinals",
+    "VisitorScore": 28,
+    "Home": "Buffalo Bills",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "New England Patriots",
+    "VisitorScore": 16,
+    "Home": "Cincinnati Bengals",
+    "HomeScore": 10,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "Jacksonville Jaguars",
+    "VisitorScore": 17,
+    "Home": "Miami Dolphins",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "Houston Texans",
+    "VisitorScore": 29,
+    "Home": "Indianapolis Colts",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "Las Vegas Raiders",
+    "VisitorScore": 10,
+    "Home": "Los Angeles Chargers",
+    "HomeScore": 22,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "Denver Broncos",
+    "VisitorScore": 20,
+    "Home": "Seattle Seahawks",
+    "HomeScore": 26,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "Washington Commanders",
+    "VisitorScore": 20,
+    "Home": "Tampa Bay Buccaneers",
+    "HomeScore": 37,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "Dallas Cowboys",
+    "VisitorScore": 33,
+    "Home": "Cleveland Browns",
+    "HomeScore": 17,
+    "OT": ""
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/8/2024",
+    "Visitor": "Los Angeles Rams",
+    "VisitorScore": 20,
+    "Home": "Detroit Lions",
+    "HomeScore": 26,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week1",
+    "Date": "9/9/2024",
+    "Visitor": "New York Jets",
+    "VisitorScore": 19,
+    "Home": "San Francisco 49ers",
+    "HomeScore": 32,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/12/2024",
+    "Visitor": "Buffalo Bills",
+    "VisitorScore": 31,
+    "Home": "Miami Dolphins",
+    "HomeScore": 10,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "Tampa Bay Buccaneers",
+    "VisitorScore": 20,
+    "Home": "Detroit Lions",
+    "HomeScore": 16,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "Los Angeles Chargers",
+    "VisitorScore": 26,
+    "Home": "Carolina Panthers",
+    "HomeScore": 3,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "Las Vegas Raiders",
+    "VisitorScore": 26,
+    "Home": "Baltimore Ravens",
+    "HomeScore": 23,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "New York Jets",
+    "VisitorScore": 24,
+    "Home": "Tennessee Titans",
+    "HomeScore": 17,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "Seattle Seahawks",
+    "VisitorScore": 23,
+    "Home": "New England Patriots",
+    "HomeScore": 20,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "San Francisco 49ers",
+    "VisitorScore": 17,
+    "Home": "Minnesota Vikings",
+    "HomeScore": 23,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "Cleveland Browns",
+    "VisitorScore": 18,
+    "Home": "Jacksonville Jaguars",
+    "HomeScore": 13,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "New Orleans Saints",
+    "VisitorScore": 44,
+    "Home": "Dallas Cowboys",
+    "HomeScore": 19,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "New York Giants",
+    "VisitorScore": 18,
+    "Home": "Washington Commanders",
+    "HomeScore": 21,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "Indianapolis Colts",
+    "VisitorScore": 10,
+    "Home": "Green Bay Packers",
+    "HomeScore": 16,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "Los Angeles Rams",
+    "VisitorScore": 10,
+    "Home": "Arizona Cardinals",
+    "HomeScore": 41,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "Cincinnati Bengals",
+    "VisitorScore": 25,
+    "Home": "Kansas City Chiefs",
+    "HomeScore": 26,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "Pittsburgh Steelers",
+    "VisitorScore": 13,
+    "Home": "Denver Broncos",
+    "HomeScore": 6,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/15/2024",
+    "Visitor": "Chicago Bears",
+    "VisitorScore": 13,
+    "Home": "Houston Texans",
+    "HomeScore": 19,
+    "OT": ""
+  },
+  {
+    "Week": "Week 2",
+    "Date": "9/16/2024",
+    "Visitor": "Atlanta Falcons",
+    "VisitorScore": 22,
+    "Home": "Philadelphia Eagles",
+    "HomeScore": 21,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/19/2024",
+    "Visitor": "New England Patriots",
+    "VisitorScore": 3,
+    "Home": "New York Jets",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "Chicago Bears",
+    "VisitorScore": 16,
+    "Home": "Indianapolis Colts",
+    "HomeScore": 21,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "Philadelphia Eagles",
+    "VisitorScore": 15,
+    "Home": "New Orleans Saints",
+    "HomeScore": 12,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "Houston Texans",
+    "VisitorScore": 7,
+    "Home": "Minnesota Vikings",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "Green Bay Packers",
+    "VisitorScore": 30,
+    "Home": "Tennessee Titans",
+    "HomeScore": 14,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "Los Angeles Chargers",
+    "VisitorScore": 10,
+    "Home": "Pittsburgh Steelers",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "New York Giants",
+    "VisitorScore": 21,
+    "Home": "Cleveland Browns",
+    "HomeScore": 15,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "Denver Broncos",
+    "VisitorScore": 26,
+    "Home": "Tampa Bay Buccaneers",
+    "HomeScore": 7,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "Miami Dolphins",
+    "VisitorScore": 3,
+    "Home": "Seattle Seahawks",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "Carolina Panthers",
+    "VisitorScore": 36,
+    "Home": "Las Vegas Raiders",
+    "HomeScore": 22,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "San Francisco 49ers",
+    "VisitorScore": 24,
+    "Home": "Los Angeles Rams",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "Detroit Lions",
+    "VisitorScore": 20,
+    "Home": "Arizona Cardinals",
+    "HomeScore": 13,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "Baltimore Ravens",
+    "VisitorScore": 28,
+    "Home": "Dallas Cowboys",
+    "HomeScore": 25,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/22/2024",
+    "Visitor": "Kansas City Chiefs",
+    "VisitorScore": 22,
+    "Home": "Atlanta Falcons",
+    "HomeScore": 17,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/23/2024",
+    "Visitor": "Jacksonville Jaguars",
+    "VisitorScore": 10,
+    "Home": "Buffalo Bills",
+    "HomeScore": 47,
+    "OT": ""
+  },
+  {
+    "Week": "Week 3",
+    "Date": "9/23/2024",
+    "Visitor": "Washington Commanders",
+    "VisitorScore": 38,
+    "Home": "Cincinnati Bengals",
+    "HomeScore": 33,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/26/2024",
+    "Visitor": "Dallas Cowboys",
+    "VisitorScore": 20,
+    "Home": "New York Giants",
+    "HomeScore": 15,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "Los Angeles Rams",
+    "VisitorScore": 18,
+    "Home": "Chicago Bears",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "Cincinnati Bengals",
+    "VisitorScore": 34,
+    "Home": "Carolina Panthers",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "Jacksonville Jaguars",
+    "VisitorScore": 20,
+    "Home": "Houston Texans",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "Denver Broncos",
+    "VisitorScore": 10,
+    "Home": "New York Jets",
+    "HomeScore": 9,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "Minnesota Vikings",
+    "VisitorScore": 31,
+    "Home": "Green Bay Packers",
+    "HomeScore": 29,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "New Orleans Saints",
+    "VisitorScore": 24,
+    "Home": "Atlanta Falcons",
+    "HomeScore": 26,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "Philadelphia Eagles",
+    "VisitorScore": 16,
+    "Home": "Tampa Bay Buccaneers",
+    "HomeScore": 33,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "Pittsburgh Steelers",
+    "VisitorScore": 24,
+    "Home": "Indianapolis Colts",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "New England Patriots",
+    "VisitorScore": 13,
+    "Home": "San Francisco 49ers",
+    "HomeScore": 30,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "Washington Commanders",
+    "VisitorScore": 42,
+    "Home": "Arizona Cardinals",
+    "HomeScore": 14,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "Kansas City Chiefs",
+    "VisitorScore": 17,
+    "Home": "Los Angeles Chargers",
+    "HomeScore": 10,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "Cleveland Browns",
+    "VisitorScore": 16,
+    "Home": "Las Vegas Raiders",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/29/2024",
+    "Visitor": "Buffalo Bills",
+    "VisitorScore": 10,
+    "Home": "Baltimore Ravens",
+    "HomeScore": 35,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/30/2024",
+    "Visitor": "Tennessee Titans",
+    "VisitorScore": 31,
+    "Home": "Miami Dolphins",
+    "HomeScore": 12,
+    "OT": ""
+  },
+  {
+    "Week": "Week 4",
+    "Date": "9/30/2024",
+    "Visitor": "Seattle Seahawks",
+    "VisitorScore": 29,
+    "Home": "Detroit Lions",
+    "HomeScore": 42,
+    "OT": ""
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/3/2024",
+    "Visitor": "Tampa Bay Buccaneers",
+    "VisitorScore": 30,
+    "Home": "Atlanta Falcons",
+    "HomeScore": 36,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/6/2024",
+    "Visitor": "New York Jets",
+    "VisitorScore": 17,
+    "Home": "Minnesota Vikings",
+    "HomeScore": 23,
+    "OT": ""
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/6/2024",
+    "Visitor": "Miami Dolphins",
+    "VisitorScore": 15,
+    "Home": "New England Patriots",
+    "HomeScore": 10,
+    "OT": ""
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/6/2024",
+    "Visitor": "Carolina Panthers",
+    "VisitorScore": 10,
+    "Home": "Chicago Bears",
+    "HomeScore": 36,
+    "OT": ""
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/6/2024",
+    "Visitor": "Baltimore Ravens",
+    "VisitorScore": 41,
+    "Home": "Cincinnati Bengals",
+    "HomeScore": 38,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/6/2024",
+    "Visitor": "Indianapolis Colts",
+    "VisitorScore": 34,
+    "Home": "Jacksonville Jaguars",
+    "HomeScore": 37,
+    "OT": ""
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/6/2024",
+    "Visitor": "Cleveland Browns",
+    "VisitorScore": 13,
+    "Home": "Washington Commanders",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/6/2024",
+    "Visitor": "Buffalo Bills",
+    "VisitorScore": 20,
+    "Home": "Houston Texans",
+    "HomeScore": 23,
+    "OT": ""
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/6/2024",
+    "Visitor": "Las Vegas Raiders",
+    "VisitorScore": 18,
+    "Home": "Denver Broncos",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/6/2024",
+    "Visitor": "Arizona Cardinals",
+    "VisitorScore": 24,
+    "Home": "San Francisco 49ers",
+    "HomeScore": 23,
+    "OT": ""
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/6/2024",
+    "Visitor": "New York Giants",
+    "VisitorScore": 29,
+    "Home": "Seattle Seahawks",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/6/2024",
+    "Visitor": "Green Bay Packers",
+    "VisitorScore": 24,
+    "Home": "Los Angeles Rams",
+    "HomeScore": 19,
+    "OT": ""
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/6/2024",
+    "Visitor": "Dallas Cowboys",
+    "VisitorScore": 20,
+    "Home": "Pittsburgh Steelers",
+    "HomeScore": 17,
+    "OT": ""
+  },
+  {
+    "Week": "Week 5",
+    "Date": "10/7/2024",
+    "Visitor": "New Orleans Saints",
+    "VisitorScore": 13,
+    "Home": "Kansas City Chiefs",
+    "HomeScore": 26,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/10/2024",
+    "Visitor": "San Francisco 49ers",
+    "VisitorScore": 36,
+    "Home": "Seattle Seahawks",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/13/2024",
+    "Visitor": "Jacksonville Jaguars",
+    "VisitorScore": 16,
+    "Home": "Chicago Bears",
+    "HomeScore": 35,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/13/2024",
+    "Visitor": "Arizona Cardinals",
+    "VisitorScore": 13,
+    "Home": "Green Bay Packers",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/13/2024",
+    "Visitor": "Cleveland Browns",
+    "VisitorScore": 16,
+    "Home": "Philadelphia Eagles",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/13/2024",
+    "Visitor": "Houston Texans",
+    "VisitorScore": 41,
+    "Home": "New England Patriots",
+    "HomeScore": 21,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/13/2024",
+    "Visitor": "Washington Commanders",
+    "VisitorScore": 23,
+    "Home": "Baltimore Ravens",
+    "HomeScore": 30,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/13/2024",
+    "Visitor": "Tampa Bay Buccaneers",
+    "VisitorScore": 51,
+    "Home": "New Orleans Saints",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/13/2024",
+    "Visitor": "Indianapolis Colts",
+    "VisitorScore": 20,
+    "Home": "Tennessee Titans",
+    "HomeScore": 17,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/13/2024",
+    "Visitor": "Los Angeles Chargers",
+    "VisitorScore": 23,
+    "Home": "Denver Broncos",
+    "HomeScore": 16,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/13/2024",
+    "Visitor": "Pittsburgh Steelers",
+    "VisitorScore": 32,
+    "Home": "Las Vegas Raiders",
+    "HomeScore": 13,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/13/2024",
+    "Visitor": "Atlanta Falcons",
+    "VisitorScore": 38,
+    "Home": "Carolina Panthers",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/13/2024",
+    "Visitor": "Detroit Lions",
+    "VisitorScore": 47,
+    "Home": "Dallas Cowboys",
+    "HomeScore": 9,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/13/2024",
+    "Visitor": "Cincinnati Bengals",
+    "VisitorScore": 17,
+    "Home": "New York Giants",
+    "HomeScore": 7,
+    "OT": ""
+  },
+  {
+    "Week": "Week 6",
+    "Date": "10/14/2024",
+    "Visitor": "Buffalo Bills",
+    "VisitorScore": 23,
+    "Home": "New York Jets",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/17/2024",
+    "Visitor": "Denver Broncos",
+    "VisitorScore": 33,
+    "Home": "New Orleans Saints",
+    "HomeScore": 10,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/20/2024",
+    "Visitor": "New England Patriots",
+    "VisitorScore": 16,
+    "Home": "Jacksonville Jaguars",
+    "HomeScore": 32,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/20/2024",
+    "Visitor": "Tennessee Titans",
+    "VisitorScore": 10,
+    "Home": "Buffalo Bills",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/20/2024",
+    "Visitor": "Philadelphia Eagles",
+    "VisitorScore": 28,
+    "Home": "New York Giants",
+    "HomeScore": 3,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/20/2024",
+    "Visitor": "Detroit Lions",
+    "VisitorScore": 31,
+    "Home": "Minnesota Vikings",
+    "HomeScore": 29,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/20/2024",
+    "Visitor": "Houston Texans",
+    "VisitorScore": 22,
+    "Home": "Green Bay Packers",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/20/2024",
+    "Visitor": "Cincinnati Bengals",
+    "VisitorScore": 21,
+    "Home": "Cleveland Browns",
+    "HomeScore": 14,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/20/2024",
+    "Visitor": "Seattle Seahawks",
+    "VisitorScore": 34,
+    "Home": "Atlanta Falcons",
+    "HomeScore": 14,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/20/2024",
+    "Visitor": "Miami Dolphins",
+    "VisitorScore": 10,
+    "Home": "Indianapolis Colts",
+    "HomeScore": 16,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/20/2024",
+    "Visitor": "Las Vegas Raiders",
+    "VisitorScore": 15,
+    "Home": "Los Angeles Rams",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/20/2024",
+    "Visitor": "Carolina Panthers",
+    "VisitorScore": 7,
+    "Home": "Washington Commanders",
+    "HomeScore": 40,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/20/2024",
+    "Visitor": "Kansas City Chiefs",
+    "VisitorScore": 28,
+    "Home": "San Francisco 49ers",
+    "HomeScore": 18,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/20/2024",
+    "Visitor": "New York Jets",
+    "VisitorScore": 15,
+    "Home": "Pittsburgh Steelers",
+    "HomeScore": 37,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/21/2024",
+    "Visitor": "Baltimore Ravens",
+    "VisitorScore": 41,
+    "Home": "Tampa Bay Buccaneers",
+    "HomeScore": 31,
+    "OT": ""
+  },
+  {
+    "Week": "Week 7",
+    "Date": "10/21/2024",
+    "Visitor": "Los Angeles Chargers",
+    "VisitorScore": 15,
+    "Home": "Arizona Cardinals",
+    "HomeScore": 17,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/24/2024",
+    "Visitor": "Minnesota Vikings",
+    "VisitorScore": 20,
+    "Home": "Los Angeles Rams",
+    "HomeScore": 30,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "Green Bay Packers",
+    "VisitorScore": 30,
+    "Home": "Jacksonville Jaguars",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "Philadelphia Eagles",
+    "VisitorScore": 37,
+    "Home": "Cincinnati Bengals",
+    "HomeScore": 17,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "Baltimore Ravens",
+    "VisitorScore": 24,
+    "Home": "Cleveland Browns",
+    "HomeScore": 29,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "Tennessee Titans",
+    "VisitorScore": 14,
+    "Home": "Detroit Lions",
+    "HomeScore": 52,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "Arizona Cardinals",
+    "VisitorScore": 28,
+    "Home": "Miami Dolphins",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "New York Jets",
+    "VisitorScore": 22,
+    "Home": "New England Patriots",
+    "HomeScore": 25,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "Atlanta Falcons",
+    "VisitorScore": 31,
+    "Home": "Tampa Bay Buccaneers",
+    "HomeScore": 26,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "Indianapolis Colts",
+    "VisitorScore": 20,
+    "Home": "Houston Texans",
+    "HomeScore": 23,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "New Orleans Saints",
+    "VisitorScore": 8,
+    "Home": "Los Angeles Chargers",
+    "HomeScore": 26,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "Buffalo Bills",
+    "VisitorScore": 31,
+    "Home": "Seattle Seahawks",
+    "HomeScore": 10,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "Chicago Bears",
+    "VisitorScore": 15,
+    "Home": "Washington Commanders",
+    "HomeScore": 18,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "Carolina Panthers",
+    "VisitorScore": 14,
+    "Home": "Denver Broncos",
+    "HomeScore": 28,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "Kansas City Chiefs",
+    "VisitorScore": 27,
+    "Home": "Las Vegas Raiders",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/27/2024",
+    "Visitor": "Dallas Cowboys",
+    "VisitorScore": 24,
+    "Home": "San Francisco 49ers",
+    "HomeScore": 30,
+    "OT": ""
+  },
+  {
+    "Week": "Week 8",
+    "Date": "10/28/2024",
+    "Visitor": "New York Giants",
+    "VisitorScore": 18,
+    "Home": "Pittsburgh Steelers",
+    "HomeScore": 26,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "10/31/2024",
+    "Visitor": "Houston Texans",
+    "VisitorScore": 13,
+    "Home": "New York Jets",
+    "HomeScore": 21,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "Washington Commanders",
+    "VisitorScore": 27,
+    "Home": "New York Giants",
+    "HomeScore": 22,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "New Orleans Saints",
+    "VisitorScore": 22,
+    "Home": "Carolina Panthers",
+    "HomeScore": 23,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "New England Patriots",
+    "VisitorScore": 17,
+    "Home": "Tennessee Titans",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "Los Angeles Chargers",
+    "VisitorScore": 27,
+    "Home": "Cleveland Browns",
+    "HomeScore": 10,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "Dallas Cowboys",
+    "VisitorScore": 21,
+    "Home": "Atlanta Falcons",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "Las Vegas Raiders",
+    "VisitorScore": 24,
+    "Home": "Cincinnati Bengals",
+    "HomeScore": 41,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "Denver Broncos",
+    "VisitorScore": 10,
+    "Home": "Baltimore Ravens",
+    "HomeScore": 41,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "Miami Dolphins",
+    "VisitorScore": 27,
+    "Home": "Buffalo Bills",
+    "HomeScore": 30,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "Jacksonville Jaguars",
+    "VisitorScore": 23,
+    "Home": "Philadelphia Eagles",
+    "HomeScore": 28,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "Chicago Bears",
+    "VisitorScore": 9,
+    "Home": "Arizona Cardinals",
+    "HomeScore": 29,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "Los Angeles Rams",
+    "VisitorScore": 26,
+    "Home": "Seattle Seahawks",
+    "HomeScore": 20,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "Detroit Lions",
+    "VisitorScore": 24,
+    "Home": "Green Bay Packers",
+    "HomeScore": 14,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/3/2024",
+    "Visitor": "Indianapolis Colts",
+    "VisitorScore": 13,
+    "Home": "Minnesota Vikings",
+    "HomeScore": 21,
+    "OT": ""
+  },
+  {
+    "Week": "Week 9",
+    "Date": "11/4/2024",
+    "Visitor": "Tampa Bay Buccaneers",
+    "VisitorScore": 24,
+    "Home": "Kansas City Chiefs",
+    "HomeScore": 30,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/7/2024",
+    "Visitor": "Cincinnati Bengals",
+    "VisitorScore": 34,
+    "Home": "Baltimore Ravens",
+    "HomeScore": 35,
+    "OT": ""
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/10/2024",
+    "Visitor": "New York Giants",
+    "VisitorScore": 17,
+    "Home": "Carolina Panthers",
+    "HomeScore": 20,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/10/2024",
+    "Visitor": "Minnesota Vikings",
+    "VisitorScore": 12,
+    "Home": "Jacksonville Jaguars",
+    "HomeScore": 7,
+    "OT": ""
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/10/2024",
+    "Visitor": "Buffalo Bills",
+    "VisitorScore": 30,
+    "Home": "Indianapolis Colts",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/10/2024",
+    "Visitor": "New England Patriots",
+    "VisitorScore": 19,
+    "Home": "Chicago Bears",
+    "HomeScore": 3,
+    "OT": ""
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/10/2024",
+    "Visitor": "San Francisco 49ers",
+    "VisitorScore": 23,
+    "Home": "Tampa Bay Buccaneers",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/10/2024",
+    "Visitor": "Denver Broncos",
+    "VisitorScore": 14,
+    "Home": "Kansas City Chiefs",
+    "HomeScore": 16,
+    "OT": ""
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/10/2024",
+    "Visitor": "Atlanta Falcons",
+    "VisitorScore": 17,
+    "Home": "New Orleans Saints",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/10/2024",
+    "Visitor": "Pittsburgh Steelers",
+    "VisitorScore": 28,
+    "Home": "Washington Commanders",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/10/2024",
+    "Visitor": "Tennessee Titans",
+    "VisitorScore": 17,
+    "Home": "Los Angeles Chargers",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/10/2024",
+    "Visitor": "New York Jets",
+    "VisitorScore": 6,
+    "Home": "Arizona Cardinals",
+    "HomeScore": 31,
+    "OT": ""
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/10/2024",
+    "Visitor": "Philadelphia Eagles",
+    "VisitorScore": 34,
+    "Home": "Dallas Cowboys",
+    "HomeScore": 6,
+    "OT": ""
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/10/2024",
+    "Visitor": "Detroit Lions",
+    "VisitorScore": 26,
+    "Home": "Houston Texans",
+    "HomeScore": 23,
+    "OT": ""
+  },
+  {
+    "Week": "Week 10",
+    "Date": "11/11/2024",
+    "Visitor": "Miami Dolphins",
+    "VisitorScore": 23,
+    "Home": "Los Angeles Rams",
+    "HomeScore": 15,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/14/2024",
+    "Visitor": "Washington Commanders",
+    "VisitorScore": 18,
+    "Home": "Philadelphia Eagles",
+    "HomeScore": 26,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/17/2024",
+    "Visitor": "Minnesota Vikings",
+    "VisitorScore": 23,
+    "Home": "Tennessee Titans",
+    "HomeScore": 13,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/17/2024",
+    "Visitor": "Las Vegas Raiders",
+    "VisitorScore": 19,
+    "Home": "Miami Dolphins",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/17/2024",
+    "Visitor": "Jacksonville Jaguars",
+    "VisitorScore": 6,
+    "Home": "Detroit Lions",
+    "HomeScore": 52,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/17/2024",
+    "Visitor": "Los Angeles Rams",
+    "VisitorScore": 28,
+    "Home": "New England Patriots",
+    "HomeScore": 22,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/17/2024",
+    "Visitor": "Green Bay Packers",
+    "VisitorScore": 20,
+    "Home": "Chicago Bears",
+    "HomeScore": 19,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/17/2024",
+    "Visitor": "Cleveland Browns",
+    "VisitorScore": 14,
+    "Home": "New Orleans Saints",
+    "HomeScore": 35,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/17/2024",
+    "Visitor": "Baltimore Ravens",
+    "VisitorScore": 16,
+    "Home": "Pittsburgh Steelers",
+    "HomeScore": 18,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/17/2024",
+    "Visitor": "Indianapolis Colts",
+    "VisitorScore": 28,
+    "Home": "New York Jets",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/17/2024",
+    "Visitor": "Seattle Seahawks",
+    "VisitorScore": 20,
+    "Home": "San Francisco 49ers",
+    "HomeScore": 17,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/17/2024",
+    "Visitor": "Atlanta Falcons",
+    "VisitorScore": 6,
+    "Home": "Denver Broncos",
+    "HomeScore": 38,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/17/2024",
+    "Visitor": "Kansas City Chiefs",
+    "VisitorScore": 21,
+    "Home": "Buffalo Bills",
+    "HomeScore": 30,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/17/2024",
+    "Visitor": "Cincinnati Bengals",
+    "VisitorScore": 27,
+    "Home": "Los Angeles Chargers",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 11",
+    "Date": "11/18/2024",
+    "Visitor": "Houston Texans",
+    "VisitorScore": 34,
+    "Home": "Dallas Cowboys",
+    "HomeScore": 10,
+    "OT": ""
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/21/2024",
+    "Visitor": "Pittsburgh Steelers",
+    "VisitorScore": 19,
+    "Home": "Cleveland Browns",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/24/2024",
+    "Visitor": "New England Patriots",
+    "VisitorScore": 15,
+    "Home": "Miami Dolphins",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/24/2024",
+    "Visitor": "Tampa Bay Buccaneers",
+    "VisitorScore": 30,
+    "Home": "New York Giants",
+    "HomeScore": 7,
+    "OT": ""
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/24/2024",
+    "Visitor": "Minnesota Vikings",
+    "VisitorScore": 30,
+    "Home": "Chicago Bears",
+    "HomeScore": 27,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/24/2024",
+    "Visitor": "Dallas Cowboys",
+    "VisitorScore": 34,
+    "Home": "Washington Commanders",
+    "HomeScore": 26,
+    "OT": ""
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/24/2024",
+    "Visitor": "Tennessee Titans",
+    "VisitorScore": 32,
+    "Home": "Houston Texans",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/24/2024",
+    "Visitor": "Detroit Lions",
+    "VisitorScore": 24,
+    "Home": "Indianapolis Colts",
+    "HomeScore": 6,
+    "OT": ""
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/24/2024",
+    "Visitor": "Kansas City Chiefs",
+    "VisitorScore": 30,
+    "Home": "Carolina Panthers",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/24/2024",
+    "Visitor": "Denver Broncos",
+    "VisitorScore": 29,
+    "Home": "Las Vegas Raiders",
+    "HomeScore": 19,
+    "OT": ""
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/24/2024",
+    "Visitor": "Arizona Cardinals",
+    "VisitorScore": 6,
+    "Home": "Seattle Seahawks",
+    "HomeScore": 16,
+    "OT": ""
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/24/2024",
+    "Visitor": "San Francisco 49ers",
+    "VisitorScore": 10,
+    "Home": "Green Bay Packers",
+    "HomeScore": 38,
+    "OT": ""
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/24/2024",
+    "Visitor": "Philadelphia Eagles",
+    "VisitorScore": 37,
+    "Home": "Los Angeles Rams",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 12",
+    "Date": "11/25/2024",
+    "Visitor": "Baltimore Ravens",
+    "VisitorScore": 30,
+    "Home": "Los Angeles Chargers",
+    "HomeScore": 23,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "11/28/2024",
+    "Visitor": "Chicago Bears",
+    "VisitorScore": 20,
+    "Home": "Detroit Lions",
+    "HomeScore": 23,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "11/28/2024",
+    "Visitor": "New York Giants",
+    "VisitorScore": 20,
+    "Home": "Dallas Cowboys",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "11/28/2024",
+    "Visitor": "Miami Dolphins",
+    "VisitorScore": 17,
+    "Home": "Green Bay Packers",
+    "HomeScore": 30,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "11/29/2024",
+    "Visitor": "Las Vegas Raiders",
+    "VisitorScore": 17,
+    "Home": "Kansas City Chiefs",
+    "HomeScore": 19,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "12/1/2024",
+    "Visitor": "Arizona Cardinals",
+    "VisitorScore": 22,
+    "Home": "Minnesota Vikings",
+    "HomeScore": 23,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "12/1/2024",
+    "Visitor": "Los Angeles Chargers",
+    "VisitorScore": 17,
+    "Home": "Atlanta Falcons",
+    "HomeScore": 13,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "12/1/2024",
+    "Visitor": "Houston Texans",
+    "VisitorScore": 23,
+    "Home": "Jacksonville Jaguars",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "12/1/2024",
+    "Visitor": "Pittsburgh Steelers",
+    "VisitorScore": 44,
+    "Home": "Cincinnati Bengals",
+    "HomeScore": 38,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "12/1/2024",
+    "Visitor": "Indianapolis Colts",
+    "VisitorScore": 25,
+    "Home": "New England Patriots",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "12/1/2024",
+    "Visitor": "Seattle Seahawks",
+    "VisitorScore": 26,
+    "Home": "New York Jets",
+    "HomeScore": 21,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "12/1/2024",
+    "Visitor": "Tennessee Titans",
+    "VisitorScore": 19,
+    "Home": "Washington Commanders",
+    "HomeScore": 42,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "12/1/2024",
+    "Visitor": "Los Angeles Rams",
+    "VisitorScore": 21,
+    "Home": "New Orleans Saints",
+    "HomeScore": 14,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "12/1/2024",
+    "Visitor": "Tampa Bay Buccaneers",
+    "VisitorScore": 26,
+    "Home": "Carolina Panthers",
+    "HomeScore": 23,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 13",
+    "Date": "12/1/2024",
+    "Visitor": "Philadelphia Eagles",
+    "VisitorScore": 24,
+    "Home": "Baltimore Ravens",
+    "HomeScore": 19,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "12/1/2024",
+    "Visitor": "San Francisco 49ers",
+    "VisitorScore": 10,
+    "Home": "Buffalo Bills",
+    "HomeScore": 35,
+    "OT": ""
+  },
+  {
+    "Week": "Week 13",
+    "Date": "12/2/2024",
+    "Visitor": "Cleveland Browns",
+    "VisitorScore": 32,
+    "Home": "Denver Broncos",
+    "HomeScore": 41,
+    "OT": ""
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/5/2024",
+    "Visitor": "Green Bay Packers",
+    "VisitorScore": 31,
+    "Home": "Detroit Lions",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/8/2024",
+    "Visitor": "New Orleans Saints",
+    "VisitorScore": 14,
+    "Home": "New York Giants",
+    "HomeScore": 11,
+    "OT": ""
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/8/2024",
+    "Visitor": "Jacksonville Jaguars",
+    "VisitorScore": 10,
+    "Home": "Tennessee Titans",
+    "HomeScore": 6,
+    "OT": ""
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/8/2024",
+    "Visitor": "Atlanta Falcons",
+    "VisitorScore": 21,
+    "Home": "Minnesota Vikings",
+    "HomeScore": 42,
+    "OT": ""
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/8/2024",
+    "Visitor": "New York Jets",
+    "VisitorScore": 26,
+    "Home": "Miami Dolphins",
+    "HomeScore": 32,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/8/2024",
+    "Visitor": "Cleveland Browns",
+    "VisitorScore": 14,
+    "Home": "Pittsburgh Steelers",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/8/2024",
+    "Visitor": "Carolina Panthers",
+    "VisitorScore": 16,
+    "Home": "Philadelphia Eagles",
+    "HomeScore": 22,
+    "OT": ""
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/8/2024",
+    "Visitor": "Las Vegas Raiders",
+    "VisitorScore": 13,
+    "Home": "Tampa Bay Buccaneers",
+    "HomeScore": 28,
+    "OT": ""
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/8/2024",
+    "Visitor": "Seattle Seahawks",
+    "VisitorScore": 30,
+    "Home": "Arizona Cardinals",
+    "HomeScore": 18,
+    "OT": ""
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/8/2024",
+    "Visitor": "Chicago Bears",
+    "VisitorScore": 13,
+    "Home": "San Francisco 49ers",
+    "HomeScore": 38,
+    "OT": ""
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/8/2024",
+    "Visitor": "Buffalo Bills",
+    "VisitorScore": 42,
+    "Home": "Los Angeles Rams",
+    "HomeScore": 44,
+    "OT": ""
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/8/2024",
+    "Visitor": "Los Angeles Chargers",
+    "VisitorScore": 17,
+    "Home": "Kansas City Chiefs",
+    "HomeScore": 19,
+    "OT": ""
+  },
+  {
+    "Week": "Week 14",
+    "Date": "12/9/2024",
+    "Visitor": "Cincinnati Bengals",
+    "VisitorScore": 27,
+    "Home": "Dallas Cowboys",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/12/2024",
+    "Visitor": "Los Angeles Rams",
+    "VisitorScore": 12,
+    "Home": "San Francisco 49ers",
+    "HomeScore": 6,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "Washington Commanders",
+    "VisitorScore": 20,
+    "Home": "New Orleans Saints",
+    "HomeScore": 19,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "Miami Dolphins",
+    "VisitorScore": 12,
+    "Home": "Houston Texans",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "Kansas City Chiefs",
+    "VisitorScore": 21,
+    "Home": "Cleveland Browns",
+    "HomeScore": 7,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "Dallas Cowboys",
+    "VisitorScore": 30,
+    "Home": "Carolina Panthers",
+    "HomeScore": 14,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "Baltimore Ravens",
+    "VisitorScore": 35,
+    "Home": "New York Giants",
+    "HomeScore": 14,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "New York Jets",
+    "VisitorScore": 32,
+    "Home": "Jacksonville Jaguars",
+    "HomeScore": 25,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "Cincinnati Bengals",
+    "VisitorScore": 37,
+    "Home": "Tennessee Titans",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "New England Patriots",
+    "VisitorScore": 17,
+    "Home": "Arizona Cardinals",
+    "HomeScore": 30,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "Buffalo Bills",
+    "VisitorScore": 48,
+    "Home": "Detroit Lions",
+    "HomeScore": 42,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "Pittsburgh Steelers",
+    "VisitorScore": 13,
+    "Home": "Philadelphia Eagles",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "Indianapolis Colts",
+    "VisitorScore": 13,
+    "Home": "Denver Broncos",
+    "HomeScore": 31,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "Tampa Bay Buccaneers",
+    "VisitorScore": 40,
+    "Home": "Los Angeles Chargers",
+    "HomeScore": 17,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/15/2024",
+    "Visitor": "Green Bay Packers",
+    "VisitorScore": 30,
+    "Home": "Seattle Seahawks",
+    "HomeScore": 13,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/16/2024",
+    "Visitor": "Chicago Bears",
+    "VisitorScore": 12,
+    "Home": "Minnesota Vikings",
+    "HomeScore": 30,
+    "OT": ""
+  },
+  {
+    "Week": "Week 15",
+    "Date": "12/16/2024",
+    "Visitor": "Atlanta Falcons",
+    "VisitorScore": 15,
+    "Home": "Las Vegas Raiders",
+    "HomeScore": 9,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/19/2024",
+    "Visitor": "Denver Broncos",
+    "VisitorScore": 27,
+    "Home": "Los Angeles Chargers",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/21/2024",
+    "Visitor": "Houston Texans",
+    "VisitorScore": 19,
+    "Home": "Kansas City Chiefs",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/21/2024",
+    "Visitor": "Pittsburgh Steelers",
+    "VisitorScore": 17,
+    "Home": "Baltimore Ravens",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/22/2024",
+    "Visitor": "Tennessee Titans",
+    "VisitorScore": 30,
+    "Home": "Indianapolis Colts",
+    "HomeScore": 38,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/22/2024",
+    "Visitor": "Cleveland Browns",
+    "VisitorScore": 6,
+    "Home": "Cincinnati Bengals",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/22/2024",
+    "Visitor": "Los Angeles Rams",
+    "VisitorScore": 19,
+    "Home": "new york jets",
+    "HomeScore": 9,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/22/2024",
+    "Visitor": "Philadelphia Eagles",
+    "VisitorScore": 33,
+    "Home": "Washington Commanders",
+    "HomeScore": 36,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/22/2024",
+    "Visitor": "Detroit Lions",
+    "VisitorScore": 34,
+    "Home": "Chicago Bears",
+    "HomeScore": 17,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/22/2024",
+    "Visitor": "New York Giants",
+    "VisitorScore": 7,
+    "Home": "Atlanta Falcons",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/22/2024",
+    "Visitor": "Arizona Cardinals",
+    "VisitorScore": 30,
+    "Home": "Carolina Panthers",
+    "HomeScore": 36,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/22/2024",
+    "Visitor": "Minnesota Vikings",
+    "VisitorScore": 27,
+    "Home": "Seattle Seahawks",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/22/2024",
+    "Visitor": "San Francisco 49ers",
+    "VisitorScore": 17,
+    "Home": "Miami Dolphins",
+    "HomeScore": 29,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/22/2024",
+    "Visitor": "New England Patriots",
+    "VisitorScore": 21,
+    "Home": "Buffalo Bills",
+    "HomeScore": 24,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/22/2024",
+    "Visitor": "Jacksonville Jaguars",
+    "VisitorScore": 14,
+    "Home": "Las Vegas Raiders",
+    "HomeScore": 19,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/22/2024",
+    "Visitor": "Tampa Bay Buccaneers",
+    "VisitorScore": 24,
+    "Home": "Dallas Cowboys",
+    "HomeScore": 26,
+    "OT": ""
+  },
+  {
+    "Week": "Week 16",
+    "Date": "12/23/2024",
+    "Visitor": "New Orleans Saints",
+    "VisitorScore": 0,
+    "Home": "Green Bay Packers",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/25/2024",
+    "Visitor": "Kansas City Chiefs",
+    "VisitorScore": 29,
+    "Home": "Pittsburgh Steelers",
+    "HomeScore": 10,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/25/2024",
+    "Visitor": "Baltimore Ravens",
+    "VisitorScore": 31,
+    "Home": "Houston Texans",
+    "HomeScore": 2,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/26/2024",
+    "Visitor": "Seattle Seahawks",
+    "VisitorScore": 6,
+    "Home": "Chicago Bears",
+    "HomeScore": 3,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/28/2024",
+    "Visitor": "Los Angeles Chargers",
+    "VisitorScore": 40,
+    "Home": "New England Patriots",
+    "HomeScore": 7,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/28/2024",
+    "Visitor": "Denver Broncos",
+    "VisitorScore": 24,
+    "Home": "Cincinnati Bengals",
+    "HomeScore": 30,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/28/2024",
+    "Visitor": "Arizona Cardinals",
+    "VisitorScore": 9,
+    "Home": "Los Angeles Rams",
+    "HomeScore": 13,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/29/2024",
+    "Visitor": "Tennessee Titans",
+    "VisitorScore": 13,
+    "Home": "Jacksonville Jaguars",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/29/2024",
+    "Visitor": "New York Jets",
+    "VisitorScore": 14,
+    "Home": "Buffalo Bills",
+    "HomeScore": 40,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/29/2024",
+    "Visitor": "Carolina Panthers",
+    "VisitorScore": 14,
+    "Home": "Tampa Bay Buccaneers",
+    "HomeScore": 48,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/29/2024",
+    "Visitor": "Indianapolis Colts",
+    "VisitorScore": 33,
+    "Home": "New York Giants",
+    "HomeScore": 45,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/29/2024",
+    "Visitor": "Dallas Cowboys",
+    "VisitorScore": 7,
+    "Home": "Philadelphia Eagles",
+    "HomeScore": 41,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/29/2024",
+    "Visitor": "Las Vegas Raiders",
+    "VisitorScore": 25,
+    "Home": "New Orleans Saints",
+    "HomeScore": 10,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/29/2024",
+    "Visitor": "Miami Dolphins",
+    "VisitorScore": 20,
+    "Home": "Cleveland Browns",
+    "HomeScore": 3,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/29/2024",
+    "Visitor": "Green Bay Packers",
+    "VisitorScore": 25,
+    "Home": "Minnesota Vikings",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/29/2024",
+    "Visitor": "Atlanta Falcons",
+    "VisitorScore": 24,
+    "Home": "Washington Commanders",
+    "HomeScore": 30,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 17",
+    "Date": "12/30/2024",
+    "Visitor": "Detroit Lions",
+    "VisitorScore": 40,
+    "Home": "San Francisco 49ers",
+    "HomeScore": 34,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/4/2025",
+    "Visitor": "Cleveland Browns",
+    "VisitorScore": 10,
+    "Home": "Baltimore Ravens",
+    "HomeScore": 35,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/4/2025",
+    "Visitor": "Cincinnati Bengals",
+    "VisitorScore": 19,
+    "Home": "Pittsburgh Steelers",
+    "HomeScore": 17,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "Jacksonville Jaguars",
+    "VisitorScore": 23,
+    "Home": "Indianapolis Colts",
+    "HomeScore": 26,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "Carolina Panthers",
+    "VisitorScore": 44,
+    "Home": "Atlanta Falcons",
+    "HomeScore": 38,
+    "OT": "OT"
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "Houston Texans",
+    "VisitorScore": 23,
+    "Home": "Tennessee Titans",
+    "HomeScore": 14,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "Buffalo Bills",
+    "VisitorScore": 16,
+    "Home": "New England Patriots",
+    "HomeScore": 23,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "New Orleans Saints",
+    "VisitorScore": 19,
+    "Home": "Tampa Bay Buccaneers",
+    "HomeScore": 27,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "Washington Commanders",
+    "VisitorScore": 23,
+    "Home": "Dallas Cowboys",
+    "HomeScore": 19,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "New York Giants",
+    "VisitorScore": 13,
+    "Home": "Philadelphia Eagles",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "Chicago Bears",
+    "VisitorScore": 24,
+    "Home": "Green Bay Packers",
+    "HomeScore": 22,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "Los Angeles Chargers",
+    "VisitorScore": 34,
+    "Home": "Las Vegas Raiders",
+    "HomeScore": 20,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "Seattle Seahawks",
+    "VisitorScore": 30,
+    "Home": "Los Angeles Rams",
+    "HomeScore": 25,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "San Francisco 49ers",
+    "VisitorScore": 24,
+    "Home": "Arizona Cardinals",
+    "HomeScore": 47,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "Miami Dolphins",
+    "VisitorScore": 20,
+    "Home": "new york jets",
+    "HomeScore": 32,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "Kansas City Chiefs",
+    "VisitorScore": 0,
+    "Home": "Denver Broncos",
+    "HomeScore": 38,
+    "OT": ""
+  },
+  {
+    "Week": "Week 18",
+    "Date": "1/5/2025",
+    "Visitor": "Minnesota Vikings",
+    "VisitorScore": 9,
+    "Home": "Detroit Lions",
+    "HomeScore": 31,
+    "OT": ""
+  }
+]

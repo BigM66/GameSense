@@ -1,0 +1,33 @@
+.model-container {
+    text-align: center;
+    padding: 60px 20px;
+  }
+  
+  .model-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+  }
+  
+  .model-buttons button {
+    padding: 24px 48px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: #0044cc;
+    color: rgb(254, 254, 255);
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .model-buttons button:hover {
+    background-color: #002a80;
+    transform: scale(1.05);
+  }
+  
+  
+  

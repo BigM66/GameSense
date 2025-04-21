@@ -1,0 +1,1616 @@
+[
+  {
+    "Week": "Week1",
+    "HomeTeam": "KC",
+    "VisitorTeam": "BAL",
+    "HomeWinProbability": 0.6693816327
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "PHI",
+    "VisitorTeam": "GB",
+    "HomeWinProbability": 0.8563796816
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "ATL",
+    "VisitorTeam": "PIT",
+    "HomeWinProbability": 0.4736773216
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "BUF",
+    "VisitorTeam": "ARI",
+    "HomeWinProbability": 0.9285949248
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "CHI",
+    "VisitorTeam": "TEN",
+    "HomeWinProbability": 0.2762539077
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "CIN",
+    "VisitorTeam": "NE",
+    "HomeWinProbability": 0.8058667079
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "IND",
+    "VisitorTeam": "HOU",
+    "HomeWinProbability": 0.7496056417
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "MIA",
+    "VisitorTeam": "JAX",
+    "HomeWinProbability": 0.7749400449
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "NO",
+    "VisitorTeam": "CAR",
+    "HomeWinProbability": 0.5509353351
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "NYG",
+    "VisitorTeam": "MIN",
+    "HomeWinProbability": 0.1866453566
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "LAC",
+    "VisitorTeam": "LV",
+    "HomeWinProbability": 0.7926583722
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "SEA",
+    "VisitorTeam": "DEN",
+    "HomeWinProbability": 0.679328779
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "CLE",
+    "VisitorTeam": "DAL",
+    "HomeWinProbability": 0.2363598906
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "TB",
+    "VisitorTeam": "WAS",
+    "HomeWinProbability": 0.3983094476
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "DET",
+    "VisitorTeam": "LA",
+    "HomeWinProbability": 0.7642715466
+  },
+  {
+    "Week": "Week1",
+    "HomeTeam": "SF",
+    "VisitorTeam": "NYJ",
+    "HomeWinProbability": 0.7632835757
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "MIA",
+    "VisitorTeam": "BUF",
+    "HomeWinProbability": 0.2795217071
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "BAL",
+    "VisitorTeam": "LV",
+    "HomeWinProbability": 0.8707523382
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "CAR",
+    "VisitorTeam": "LAC",
+    "HomeWinProbability": 0.2131635822
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "DAL",
+    "VisitorTeam": "NO",
+    "HomeWinProbability": 0.8436306268
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "DET",
+    "VisitorTeam": "TB",
+    "HomeWinProbability": 0.7497502306
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "GB",
+    "VisitorTeam": "IND",
+    "HomeWinProbability": 0.7152473464
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "JAX",
+    "VisitorTeam": "CLE",
+    "HomeWinProbability": 0.5670799705
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "MIN",
+    "VisitorTeam": "SF",
+    "HomeWinProbability": 0.6243647777
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "NE",
+    "VisitorTeam": "SEA",
+    "HomeWinProbability": 0.3750723656
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "TEN",
+    "VisitorTeam": "NYJ",
+    "HomeWinProbability": 0.5201094756
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "WAS",
+    "VisitorTeam": "NYG",
+    "HomeWinProbability": 0.7885925662
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "ARI",
+    "VisitorTeam": "LA",
+    "HomeWinProbability": 0.3733564913
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "DEN",
+    "VisitorTeam": "PIT",
+    "HomeWinProbability": 0.3927077063
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "KC",
+    "VisitorTeam": "CIN",
+    "HomeWinProbability": 0.7250857567
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "HOU",
+    "VisitorTeam": "CHI",
+    "HomeWinProbability": 0.6338253441
+  },
+  {
+    "Week": "Week 2",
+    "HomeTeam": "PHI",
+    "VisitorTeam": "ATL",
+    "HomeWinProbability": 0.9266745658
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "NYJ",
+    "VisitorTeam": "NE",
+    "HomeWinProbability": 0.5388497796
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "CLE",
+    "VisitorTeam": "NYG",
+    "HomeWinProbability": 0.5423521606
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "ATL",
+    "VisitorTeam": "KC",
+    "HomeWinProbability": 0.1571951943
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "IND",
+    "VisitorTeam": "CHI",
+    "HomeWinProbability": 0.8206060107
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "MIN",
+    "VisitorTeam": "HOU",
+    "HomeWinProbability": 0.9057052052
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "NO",
+    "VisitorTeam": "PHI",
+    "HomeWinProbability": 0.04826770663
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "PIT",
+    "VisitorTeam": "LAC",
+    "HomeWinProbability": 0.4251012256
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "TB",
+    "VisitorTeam": "DEN",
+    "HomeWinProbability": 0.6533410903
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "TEN",
+    "VisitorTeam": "GB",
+    "HomeWinProbability": 0.2729934031
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "LV",
+    "VisitorTeam": "CAR",
+    "HomeWinProbability": 0.5839669049
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "SEA",
+    "VisitorTeam": "MIA",
+    "HomeWinProbability": 0.3999020231
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "ARI",
+    "VisitorTeam": "DET",
+    "HomeWinProbability": 0.1723059025
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "DAL",
+    "VisitorTeam": "BAL",
+    "HomeWinProbability": 0.4422469525
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "LA",
+    "VisitorTeam": "SF",
+    "HomeWinProbability": 0.3744910656
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "BUF",
+    "VisitorTeam": "JAX",
+    "HomeWinProbability": 0.9095348537
+  },
+  {
+    "Week": "Week 3",
+    "HomeTeam": "CIN",
+    "VisitorTeam": "WAS",
+    "HomeWinProbability": 0.5909379718
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "NYG",
+    "VisitorTeam": "DAL",
+    "HomeWinProbability": 0.2283164298
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "ATL",
+    "VisitorTeam": "NO",
+    "HomeWinProbability": 0.6940175826
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "CAR",
+    "VisitorTeam": "CIN",
+    "HomeWinProbability": 0.1668495059
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "CHI",
+    "VisitorTeam": "LA",
+    "HomeWinProbability": 0.1953376005
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "GB",
+    "VisitorTeam": "MIN",
+    "HomeWinProbability": 0.4391111387
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "HOU",
+    "VisitorTeam": "JAX",
+    "HomeWinProbability": 0.3528531353
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "IND",
+    "VisitorTeam": "PIT",
+    "HomeWinProbability": 0.4624391623
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "NYJ",
+    "VisitorTeam": "DEN",
+    "HomeWinProbability": 0.5365486843
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "TB",
+    "VisitorTeam": "PHI",
+    "HomeWinProbability": 0.1082464847
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "ARI",
+    "VisitorTeam": "WAS",
+    "HomeWinProbability": 0.2434172829
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "SF",
+    "VisitorTeam": "NE",
+    "HomeWinProbability": 0.7688386537
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "LAC",
+    "VisitorTeam": "KC",
+    "HomeWinProbability": 0.2645284093
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "LV",
+    "VisitorTeam": "CLE",
+    "HomeWinProbability": 0.4990049276
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "BAL",
+    "VisitorTeam": "BUF",
+    "HomeWinProbability": 0.3659677511
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "MIA",
+    "VisitorTeam": "TEN",
+    "HomeWinProbability": 0.7864685238
+  },
+  {
+    "Week": "Week 4",
+    "HomeTeam": "DET",
+    "VisitorTeam": "SEA",
+    "HomeWinProbability": 0.7271776151
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "ATL",
+    "VisitorTeam": "TB",
+    "HomeWinProbability": 0.4865601071
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "MIN",
+    "VisitorTeam": "NYJ",
+    "HomeWinProbability": 0.8255149738
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "CHI",
+    "VisitorTeam": "CAR",
+    "HomeWinProbability": 0.3676812453
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "CIN",
+    "VisitorTeam": "BAL",
+    "HomeWinProbability": 0.4651250678
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "HOU",
+    "VisitorTeam": "BUF",
+    "HomeWinProbability": 0.05787919568
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "JAX",
+    "VisitorTeam": "IND",
+    "HomeWinProbability": 0.4710710193
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "NE",
+    "VisitorTeam": "MIA",
+    "HomeWinProbability": 0.2609368899
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "WAS",
+    "VisitorTeam": "CLE",
+    "HomeWinProbability": 0.780975726
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "DEN",
+    "VisitorTeam": "LV",
+    "HomeWinProbability": 0.587534941
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "SF",
+    "VisitorTeam": "ARI",
+    "HomeWinProbability": 0.802973786
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "LA",
+    "VisitorTeam": "GB",
+    "HomeWinProbability": 0.371236775
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "SEA",
+    "VisitorTeam": "NYG",
+    "HomeWinProbability": 0.7101607371
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "PIT",
+    "VisitorTeam": "DAL",
+    "HomeWinProbability": 0.3747934594
+  },
+  {
+    "Week": "Week 5",
+    "HomeTeam": "KC",
+    "VisitorTeam": "NO",
+    "HomeWinProbability": 0.9323228926
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "SEA",
+    "VisitorTeam": "SF",
+    "HomeWinProbability": 0.4213814877
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "CHI",
+    "VisitorTeam": "JAX",
+    "HomeWinProbability": 0.2629930242
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "BAL",
+    "VisitorTeam": "WAS",
+    "HomeWinProbability": 0.6530074827
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "GB",
+    "VisitorTeam": "ARI",
+    "HomeWinProbability": 0.8051662745
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "NE",
+    "VisitorTeam": "HOU",
+    "HomeWinProbability": 0.6903669605
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "NO",
+    "VisitorTeam": "TB",
+    "HomeWinProbability": 0.3212512118
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "PHI",
+    "VisitorTeam": "CLE",
+    "HomeWinProbability": 0.9510899761
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "TEN",
+    "VisitorTeam": "IND",
+    "HomeWinProbability": 0.4543289262
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "DEN",
+    "VisitorTeam": "LAC",
+    "HomeWinProbability": 0.2968119055
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "LV",
+    "VisitorTeam": "PIT",
+    "HomeWinProbability": 0.3396141091
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "CAR",
+    "VisitorTeam": "ATL",
+    "HomeWinProbability": 0.3431525511
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "DAL",
+    "VisitorTeam": "DET",
+    "HomeWinProbability": 0.4601311856
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "NYG",
+    "VisitorTeam": "CIN",
+    "HomeWinProbability": 0.2124595184
+  },
+  {
+    "Week": "Week 6",
+    "HomeTeam": "NYJ",
+    "VisitorTeam": "BUF",
+    "HomeWinProbability": 0.1108925781
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "NO",
+    "VisitorTeam": "DEN",
+    "HomeWinProbability": 0.4405367011
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "JAX",
+    "VisitorTeam": "NE",
+    "HomeWinProbability": 0.5445885885
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "ATL",
+    "VisitorTeam": "SEA",
+    "HomeWinProbability": 0.4574274858
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "BUF",
+    "VisitorTeam": "TEN",
+    "HomeWinProbability": 0.9149257325
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "CLE",
+    "VisitorTeam": "CIN",
+    "HomeWinProbability": 0.2201036845
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "GB",
+    "VisitorTeam": "HOU",
+    "HomeWinProbability": 0.8690748134
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "IND",
+    "VisitorTeam": "MIA",
+    "HomeWinProbability": 0.3215996785
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "MIN",
+    "VisitorTeam": "DET",
+    "HomeWinProbability": 0.5235576197
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "NYG",
+    "VisitorTeam": "PHI",
+    "HomeWinProbability": 0.05933998802
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "LA",
+    "VisitorTeam": "LV",
+    "HomeWinProbability": 0.6865126675
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "WAS",
+    "VisitorTeam": "CAR",
+    "HomeWinProbability": 0.834024321
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "SF",
+    "VisitorTeam": "KC",
+    "HomeWinProbability": 0.2804945347
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "PIT",
+    "VisitorTeam": "NYJ",
+    "HomeWinProbability": 0.6600758336
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "TB",
+    "VisitorTeam": "BAL",
+    "HomeWinProbability": 0.2849405872
+  },
+  {
+    "Week": "Week 7",
+    "HomeTeam": "ARI",
+    "VisitorTeam": "LAC",
+    "HomeWinProbability": 0.2544528358
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "LA",
+    "VisitorTeam": "MIN",
+    "HomeWinProbability": 0.2897909785
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "CLE",
+    "VisitorTeam": "BAL",
+    "HomeWinProbability": 0.1780663602
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "DET",
+    "VisitorTeam": "TEN",
+    "HomeWinProbability": 0.8360073596
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "HOU",
+    "VisitorTeam": "IND",
+    "HomeWinProbability": 0.3000455122
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "JAX",
+    "VisitorTeam": "GB",
+    "HomeWinProbability": 0.2865624737
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "MIA",
+    "VisitorTeam": "ARI",
+    "HomeWinProbability": 0.8166410331
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "NE",
+    "VisitorTeam": "NYJ",
+    "HomeWinProbability": 0.523411873
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "TB",
+    "VisitorTeam": "ATL",
+    "HomeWinProbability": 0.57522497
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "CIN",
+    "VisitorTeam": "PHI",
+    "HomeWinProbability": 0.209420745
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "LAC",
+    "VisitorTeam": "NO",
+    "HomeWinProbability": 0.813915165
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "SEA",
+    "VisitorTeam": "BUF",
+    "HomeWinProbability": 0.1858169456
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "WAS",
+    "VisitorTeam": "CHI",
+    "HomeWinProbability": 0.9073175231
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "DEN",
+    "VisitorTeam": "CAR",
+    "HomeWinProbability": 0.6383360074
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "LV",
+    "VisitorTeam": "KC",
+    "HomeWinProbability": 0.09631356423
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "SF",
+    "VisitorTeam": "DAL",
+    "HomeWinProbability": 0.4988568975
+  },
+  {
+    "Week": "Week 8",
+    "HomeTeam": "PIT",
+    "VisitorTeam": "NYG",
+    "HomeWinProbability": 0.6965345448
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "NYJ",
+    "VisitorTeam": "HOU",
+    "HomeWinProbability": 0.6969538117
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "ATL",
+    "VisitorTeam": "DAL",
+    "HomeWinProbability": 0.3226085585
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "BAL",
+    "VisitorTeam": "DEN",
+    "HomeWinProbability": 0.8427134195
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "BUF",
+    "VisitorTeam": "MIA",
+    "HomeWinProbability": 0.7678595634
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "CAR",
+    "VisitorTeam": "NO",
+    "HomeWinProbability": 0.5112427192
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "CIN",
+    "VisitorTeam": "LV",
+    "HomeWinProbability": 0.8379679982
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "CLE",
+    "VisitorTeam": "LAC",
+    "HomeWinProbability": 0.2762977994
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "NYG",
+    "VisitorTeam": "WAS",
+    "HomeWinProbability": 0.2559676295
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "TEN",
+    "VisitorTeam": "NE",
+    "HomeWinProbability": 0.5278411215
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "ARI",
+    "VisitorTeam": "CHI",
+    "HomeWinProbability": 0.7354717069
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "PHI",
+    "VisitorTeam": "JAX",
+    "HomeWinProbability": 0.9438739988
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "GB",
+    "VisitorTeam": "DET",
+    "HomeWinProbability": 0.4316347686
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "SEA",
+    "VisitorTeam": "LA",
+    "HomeWinProbability": 0.5794722616
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "MIN",
+    "VisitorTeam": "IND",
+    "HomeWinProbability": 0.7842304936
+  },
+  {
+    "Week": "Week 9",
+    "HomeTeam": "KC",
+    "VisitorTeam": "TB",
+    "HomeWinProbability": 0.8519766454
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "BAL",
+    "VisitorTeam": "CIN",
+    "HomeWinProbability": 0.5960794154
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "CAR",
+    "VisitorTeam": "NYG",
+    "HomeWinProbability": 0.4567969427
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "CHI",
+    "VisitorTeam": "NE",
+    "HomeWinProbability": 0.2736156422
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "IND",
+    "VisitorTeam": "BUF",
+    "HomeWinProbability": 0.1396764508
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "JAX",
+    "VisitorTeam": "MIN",
+    "HomeWinProbability": 0.2172740732
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "KC",
+    "VisitorTeam": "DEN",
+    "HomeWinProbability": 0.9054439469
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "NO",
+    "VisitorTeam": "ATL",
+    "HomeWinProbability": 0.3613428241
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "TB",
+    "VisitorTeam": "SF",
+    "HomeWinProbability": 0.3931630651
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "WAS",
+    "VisitorTeam": "PIT",
+    "HomeWinProbability": 0.6480154947
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "LAC",
+    "VisitorTeam": "TEN",
+    "HomeWinProbability": 0.7566585559
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "ARI",
+    "VisitorTeam": "NYJ",
+    "HomeWinProbability": 0.4726513075
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "DAL",
+    "VisitorTeam": "PHI",
+    "HomeWinProbability": 0.194545321
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "HOU",
+    "VisitorTeam": "DET",
+    "HomeWinProbability": 0.1147338655
+  },
+  {
+    "Week": "Week 10",
+    "HomeTeam": "LA",
+    "VisitorTeam": "MIA",
+    "HomeWinProbability": 0.3539397161
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "PHI",
+    "VisitorTeam": "WAS",
+    "HomeWinProbability": 0.8606835944
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "CHI",
+    "VisitorTeam": "GB",
+    "HomeWinProbability": 0.1123136912
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "DET",
+    "VisitorTeam": "JAX",
+    "HomeWinProbability": 0.8265636492
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "MIA",
+    "VisitorTeam": "LV",
+    "HomeWinProbability": 0.8191125435
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "NE",
+    "VisitorTeam": "LA",
+    "HomeWinProbability": 0.42198647
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "NO",
+    "VisitorTeam": "CLE",
+    "HomeWinProbability": 0.4654030615
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "PIT",
+    "VisitorTeam": "BAL",
+    "HomeWinProbability": 0.2955729048
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "TEN",
+    "VisitorTeam": "MIN",
+    "HomeWinProbability": 0.2060383806
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "NYJ",
+    "VisitorTeam": "IND",
+    "HomeWinProbability": 0.4653153624
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "DEN",
+    "VisitorTeam": "ATL",
+    "HomeWinProbability": 0.4487204413
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "SF",
+    "VisitorTeam": "SEA",
+    "HomeWinProbability": 0.6379629884
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "BUF",
+    "VisitorTeam": "KC",
+    "HomeWinProbability": 0.554361397
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "LAC",
+    "VisitorTeam": "CIN",
+    "HomeWinProbability": 0.4557542788
+  },
+  {
+    "Week": "Week 11",
+    "HomeTeam": "DAL",
+    "VisitorTeam": "HOU",
+    "HomeWinProbability": 0.8816525283
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "CLE",
+    "VisitorTeam": "PIT",
+    "HomeWinProbability": 0.3690441632
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "CAR",
+    "VisitorTeam": "KC",
+    "HomeWinProbability": 0.07920206294
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "CHI",
+    "VisitorTeam": "MIN",
+    "HomeWinProbability": 0.08040866769
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "HOU",
+    "VisitorTeam": "TEN",
+    "HomeWinProbability": 0.3683802822
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "IND",
+    "VisitorTeam": "DET",
+    "HomeWinProbability": 0.2551222182
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "MIA",
+    "VisitorTeam": "NE",
+    "HomeWinProbability": 0.7842375171
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "NYG",
+    "VisitorTeam": "TB",
+    "HomeWinProbability": 0.3705623745
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "WAS",
+    "VisitorTeam": "DAL",
+    "HomeWinProbability": 0.4934768674
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "LV",
+    "VisitorTeam": "DEN",
+    "HomeWinProbability": 0.4739348455
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "GB",
+    "VisitorTeam": "SF",
+    "HomeWinProbability": 0.5346024806
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "SEA",
+    "VisitorTeam": "ARI",
+    "HomeWinProbability": 0.7237552358
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "LA",
+    "VisitorTeam": "PHI",
+    "HomeWinProbability": 0.1008567767
+  },
+  {
+    "Week": "Week 12",
+    "HomeTeam": "LAC",
+    "VisitorTeam": "BAL",
+    "HomeWinProbability": 0.3912911521
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "DET",
+    "VisitorTeam": "CHI",
+    "HomeWinProbability": 0.9380020374
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "DAL",
+    "VisitorTeam": "NYG",
+    "HomeWinProbability": 0.8126422477
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "GB",
+    "VisitorTeam": "MIA",
+    "HomeWinProbability": 0.5124631623
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "KC",
+    "VisitorTeam": "LV",
+    "HomeWinProbability": 0.9233176867
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "ATL",
+    "VisitorTeam": "LAC",
+    "HomeWinProbability": 0.3700576944
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "CIN",
+    "VisitorTeam": "PIT",
+    "HomeWinProbability": 0.7012918668
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "JAX",
+    "VisitorTeam": "HOU",
+    "HomeWinProbability": 0.7018138711
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "MIN",
+    "VisitorTeam": "ARI",
+    "HomeWinProbability": 0.8567294089
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "NE",
+    "VisitorTeam": "IND",
+    "HomeWinProbability": 0.4576119336
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "NYJ",
+    "VisitorTeam": "SEA",
+    "HomeWinProbability": 0.3823658556
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "WAS",
+    "VisitorTeam": "TEN",
+    "HomeWinProbability": 0.7673625801
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "CAR",
+    "VisitorTeam": "TB",
+    "HomeWinProbability": 0.3041181271
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "NO",
+    "VisitorTeam": "LA",
+    "HomeWinProbability": 0.3387060836
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "BAL",
+    "VisitorTeam": "PHI",
+    "HomeWinProbability": 0.256549715
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "BUF",
+    "VisitorTeam": "SF",
+    "HomeWinProbability": 0.7833052664
+  },
+  {
+    "Week": "Week 13",
+    "HomeTeam": "DEN",
+    "VisitorTeam": "CLE",
+    "HomeWinProbability": 0.556035966
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "DET",
+    "VisitorTeam": "GB",
+    "HomeWinProbability": 0.6282259089
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "MIA",
+    "VisitorTeam": "NYJ",
+    "HomeWinProbability": 0.7789460956
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "MIN",
+    "VisitorTeam": "ATL",
+    "HomeWinProbability": 0.7764944851
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "NYG",
+    "VisitorTeam": "NO",
+    "HomeWinProbability": 0.5849038269
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "PHI",
+    "VisitorTeam": "CAR",
+    "HomeWinProbability": 0.964793593
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "PIT",
+    "VisitorTeam": "CLE",
+    "HomeWinProbability": 0.6869177346
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "TB",
+    "VisitorTeam": "LV",
+    "HomeWinProbability": 0.7032511091
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "TEN",
+    "VisitorTeam": "JAX",
+    "HomeWinProbability": 0.5143372895
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "ARI",
+    "VisitorTeam": "SEA",
+    "HomeWinProbability": 0.3287736352
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "LA",
+    "VisitorTeam": "BUF",
+    "HomeWinProbability": 0.1579825642
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "SF",
+    "VisitorTeam": "CHI",
+    "HomeWinProbability": 0.9091115305
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "KC",
+    "VisitorTeam": "LAC",
+    "HomeWinProbability": 0.7810836
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "DAL",
+    "VisitorTeam": "CIN",
+    "HomeWinProbability": 0.5080976075
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "DET",
+    "VisitorTeam": "GB",
+    "HomeWinProbability": 0.6282259089
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "MIA",
+    "VisitorTeam": "NYJ",
+    "HomeWinProbability": 0.7789460956
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "MIN",
+    "VisitorTeam": "ATL",
+    "HomeWinProbability": 0.7764944851
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "NYG",
+    "VisitorTeam": "NO",
+    "HomeWinProbability": 0.5849038269
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "PHI",
+    "VisitorTeam": "CAR",
+    "HomeWinProbability": 0.964793593
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "PIT",
+    "VisitorTeam": "CLE",
+    "HomeWinProbability": 0.6869177346
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "TB",
+    "VisitorTeam": "LV",
+    "HomeWinProbability": 0.7032511091
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "TEN",
+    "VisitorTeam": "JAX",
+    "HomeWinProbability": 0.5143372895
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "ARI",
+    "VisitorTeam": "SEA",
+    "HomeWinProbability": 0.3287736352
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "LA",
+    "VisitorTeam": "BUF",
+    "HomeWinProbability": 0.1579825642
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "SF",
+    "VisitorTeam": "CHI",
+    "HomeWinProbability": 0.9091115305
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "KC",
+    "VisitorTeam": "LAC",
+    "HomeWinProbability": 0.7810836
+  },
+  {
+    "Week": "Week 14",
+    "HomeTeam": "DAL",
+    "VisitorTeam": "CIN",
+    "HomeWinProbability": 0.5080976075
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "LAC",
+    "VisitorTeam": "DEN",
+    "HomeWinProbability": 0.7524933663
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "KC",
+    "VisitorTeam": "HOU",
+    "HomeWinProbability": 0.9500556184
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "BAL",
+    "VisitorTeam": "PIT",
+    "HomeWinProbability": 0.7535986688
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "CIN",
+    "VisitorTeam": "CLE",
+    "HomeWinProbability": 0.8197258574
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "ATL",
+    "VisitorTeam": "NYG",
+    "HomeWinProbability": 0.6458271797
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "CAR",
+    "VisitorTeam": "ARI",
+    "HomeWinProbability": 0.473464179
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "CHI",
+    "VisitorTeam": "DET",
+    "HomeWinProbability": 0.07818825377
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "IND",
+    "VisitorTeam": "TEN",
+    "HomeWinProbability": 0.6065000635
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "NYJ",
+    "VisitorTeam": "LA",
+    "HomeWinProbability": 0.4295651506
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "WAS",
+    "VisitorTeam": "PHI",
+    "HomeWinProbability": 0.1719954963
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "SEA",
+    "VisitorTeam": "MIN",
+    "HomeWinProbability": 0.3316999236
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "BUF",
+    "VisitorTeam": "NE",
+    "HomeWinProbability": 0.9138899145
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "LV",
+    "VisitorTeam": "JAX",
+    "HomeWinProbability": 0.4627657814
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "MIA",
+    "VisitorTeam": "SF",
+    "HomeWinProbability": 0.5531689836
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "DAL",
+    "VisitorTeam": "TB",
+    "HomeWinProbability": 0.6926955409
+  },
+  {
+    "Week": "Week 16",
+    "HomeTeam": "GB",
+    "VisitorTeam": "NO",
+    "HomeWinProbability": 0.827801266
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "PIT",
+    "VisitorTeam": "KC",
+    "HomeWinProbability": 0.1901332748
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "HOU",
+    "VisitorTeam": "BAL",
+    "HomeWinProbability": 0.1075987915
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "CHI",
+    "VisitorTeam": "SEA",
+    "HomeWinProbability": 0.1663684911
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "NE",
+    "VisitorTeam": "LAC",
+    "HomeWinProbability": 0.2948834706
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "CIN",
+    "VisitorTeam": "DEN",
+    "HomeWinProbability": 0.8044143859
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "LA",
+    "VisitorTeam": "ARI",
+    "HomeWinProbability": 0.6829307182
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "BUF",
+    "VisitorTeam": "NYJ",
+    "HomeWinProbability": 0.9114189807
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "JAX",
+    "VisitorTeam": "TEN",
+    "HomeWinProbability": 0.5478689688
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "NO",
+    "VisitorTeam": "LV",
+    "HomeWinProbability": 0.4975214075
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "TB",
+    "VisitorTeam": "CAR",
+    "HomeWinProbability": 0.7459623651
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "NYG",
+    "VisitorTeam": "IND",
+    "HomeWinProbability": 0.4240476334
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "PHI",
+    "VisitorTeam": "DAL",
+    "HomeWinProbability": 0.8415985909
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "CLE",
+    "VisitorTeam": "MIA",
+    "HomeWinProbability": 0.243751154
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "MIN",
+    "VisitorTeam": "GB",
+    "HomeWinProbability": 0.6210951652
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "WAS",
+    "VisitorTeam": "ATL",
+    "HomeWinProbability": 0.6985557927
+  },
+  {
+    "Week": "Week 17",
+    "HomeTeam": "SF",
+    "VisitorTeam": "DET",
+    "HomeWinProbability": 0.4282238591
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "BAL",
+    "VisitorTeam": "CLE",
+    "HomeWinProbability": 0.8555649858
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "PIT",
+    "VisitorTeam": "CIN",
+    "HomeWinProbability": 0.3534226466
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "ATL",
+    "VisitorTeam": "CAR",
+    "HomeWinProbability": 0.7106834506
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "DAL",
+    "VisitorTeam": "WAS",
+    "HomeWinProbability": 0.5684482914
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "GB",
+    "VisitorTeam": "CHI",
+    "HomeWinProbability": 0.9102549342
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "IND",
+    "VisitorTeam": "JAX",
+    "HomeWinProbability": 0.5903165931
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "NE",
+    "VisitorTeam": "BUF",
+    "HomeWinProbability": 0.1078729341
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "PHI",
+    "VisitorTeam": "NYG",
+    "HomeWinProbability": 0.9531458058
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "TB",
+    "VisitorTeam": "NO",
+    "HomeWinProbability": 0.7305582381
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "TEN",
+    "VisitorTeam": "HOU",
+    "HomeWinProbability": 0.6875308001
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "ARI",
+    "VisitorTeam": "SF",
+    "HomeWinProbability": 0.23947567
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "DEN",
+    "VisitorTeam": "KC",
+    "HomeWinProbability": 0.1181774481
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "LA",
+    "VisitorTeam": "SEA",
+    "HomeWinProbability": 0.4822129218
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "LV",
+    "VisitorTeam": "LAC",
+    "HomeWinProbability": 0.2513179522
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "NYJ",
+    "VisitorTeam": "MIA",
+    "HomeWinProbability": 0.2669590562
+  },
+  {
+    "Week": "Week 18",
+    "HomeTeam": "DET",
+    "VisitorTeam": "MIN",
+    "HomeWinProbability": 0.5387045891
+  }
+]
