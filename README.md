@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### GameSense Utilization
+
+When you downoload the GameSense file, ensure that you run it in google collab, as this is the most effiecent way to ensure it runs smoothly. I reccomend just moving the whole GameSense folder directly to your google drive and then mounting that drive to the jupyter notebook in the file. You will just have to change the names on the files to match the ones in your directory if you try to run it
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -64,6 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+
 
 ### `npm run build` fails to minify
 
